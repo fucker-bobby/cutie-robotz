@@ -255,7 +255,7 @@ async def lego(event):
     quew = event.pattern_match.group(1)
     if event.sender_id != OWNER_ID and not quew:
         await event.reply(
-            "`ɢɪᴠᴇ sᴏᴍᴇ ᴛᴇxᴛ ᴛᴏ ᴄʀᴇᴀᴛᴇ ʟᴏɢᴏ ʙᴀʙʏ​ !`\n`Example /logo <ANONYMOUS>`"
+            "`ɢɪᴠᴇ sᴏᴍᴇ ᴛᴇxᴛ ᴛᴏ ᴄʀᴇᴀᴛᴇ ʟᴏɢᴏ ʙᴀʙʏ​ !`\n`Example /logo <𝙳𝙴𝚅> 𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝙱𝚢 [𝐃𝐄𝐕](https://t.me/devarora0981)`"
         )
         return
     pesan = await event.reply("**ᴄʀᴇᴀᴛɪɴɢ ʏᴏᴜʀ ʀᴇǫᴜᴇsᴛᴇᴅ ʟᴏɢᴏ ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ ᴀ sᴇᴄ​...**")
@@ -294,7 +294,7 @@ async def lego(event):
         if os.path.exists(fname):
             os.remove(fname)
     except Exception as e:
-        await event.reply(f"ғʟᴏᴏᴅᴡᴀɪᴛ ᴇʀʀᴏʀ, ʀᴇᴩᴏʀᴛ ᴛʜɪs ᴀᴛ @DevilsHeavenMF")
+        await event.reply(f"ғʟᴏᴏᴅᴡᴀɪᴛ ᴇʀʀᴏʀ, ʀᴇᴩᴏʀᴛ ᴛʜɪs ᴀᴛ @We_rFrIenDs")
 
 
 __mod_name__ = "Lᴏɢᴏ​"

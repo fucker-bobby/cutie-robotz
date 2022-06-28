@@ -10,7 +10,7 @@
 </p>
 ━━━━━━━━━━━━━━━━━━━━━━
 <p align="center">
-  <img src="https://github.com/AnonymousR1025/FallenRobot/blob/master/FallenRobot/resources/fallen.jpg">
+  <img src="https://telegra.ph/file/53c5d62e36f689c556501.jpg">
 </p>
 
 ## ㅤㅤㅤ 🖤ᴅᴇᴠ ʀᴏʙᴏᴛ🖤

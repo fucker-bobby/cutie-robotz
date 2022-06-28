@@ -2,7 +2,7 @@
 # © @AnonymousBoy1025 🌚
 
 import requests
-
+ɪ
 url = "https://iamai.p.rapidapi.com/ask"
 from FallenRobot import telethn, OWNER_ID
 from FallenRobot.events import register
@@ -33,7 +33,7 @@ async def hmm(event):
     lodu = response.json()
     result = lodu["message"]["text"]
     if "no no" in result:
-        pro = "I am fairly found and I was made by @anonymous_was_bot."
+        pro = "I am fairly found and I was made by @devarora0981."
         try:
             async with telethn.action(event.chat_id, "typing"):
                 await asyncio.sleep(2)
@@ -41,7 +41,7 @@ async def hmm(event):
         except CFError as e:
             print(e)
     elif "ann" in result:
-        pro = "My name is Fallen"
+        pro = "My name is ᴅᴇᴠ ✘ ʀᴏʙᴏᴛ"
         try:
             async with telethn.action(event.chat_id, "typing"):
                 await asyncio.sleep(2)

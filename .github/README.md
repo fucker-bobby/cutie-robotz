@@ -13,8 +13,8 @@
   <img src="https://github.com/AnonymousR1025/FallenRobot/blob/master/FallenRobot/resources/fallen.jpg">
 </p>
 
-## ㅤㅤㅤ 🖤ꜰᴀʟʟᴇɴ ʀᴏʙᴏᴛ🖤
-ɪ ᴀᴍ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [💞ꜰᴀʟʟᴇɴ ʀᴏʙᴏᴛ​💞](https://t.me/FallenXRobot)
+## ㅤㅤㅤ 🖤ᴅᴇᴠ ʀᴏʙᴏᴛ🖤
+ɪ ᴀᴍ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [💞ᴅᴇᴠ ʀᴏʙᴏᴛ​💞](https://t.me/Dev_FallenXRobot)
 ᴛʜɪs ɪs ᴀ ᴅᴇᴍᴏ ʙᴏᴛ <br> ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ нσω ʟᴏɴɢᴇʀ ɪ'ʟʟ вε ʜᴏsᴛɪɴɢ ɪᴛ​...
 ━━━━━━━━━━━━━━━━━━━━━━
 ## ㅤㅤㅤᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ​ 🚀

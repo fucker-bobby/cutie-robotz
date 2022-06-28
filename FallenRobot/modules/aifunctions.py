@@ -2,7 +2,7 @@
 # © @AnonymousBoy1025 🌚
 
 import requests
-ɪ
+
 url = "https://iamai.p.rapidapi.com/ask"
 from FallenRobot import telethn, OWNER_ID
 from FallenRobot.events import register

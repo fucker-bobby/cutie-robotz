@@ -13,12 +13,12 @@
   <img src="https://github.com/AnonymousR1025/FallenRobot/blob/master/FallenRobot/resources/fallen.jpg">
 </p>
 
-## ㅤㅤㅤ 🖤ꜰᴀʟʟᴇɴ ʀᴏʙᴏᴛ🖤
-ɪ ᴀᴍ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [💞ꜰᴀʟʟᴇɴ ʀᴏʙᴏᴛ​💞](https://t.me/FallenXRobot)
+## ㅤㅤㅤ 🖤ᴄᴜᴛɪᴇ ʀᴏʙᴏᴛ🖤
+ɪ ᴀᴍ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [💞ᴄᴜᴛɪᴇ ʀᴏʙᴏᴛ​💞](https://t.me/cutie_x_robot)
 ᴛʜɪs ɪs ᴀ ᴅᴇᴍᴏ ʙᴏᴛ <br> ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ нσω ʟᴏɴɢᴇʀ ɪ'ʟʟ вε ʜᴏsᴛɪɴɢ ɪᴛ​...
 ━━━━━━━━━━━━━━━━━━━━━━
 ## ㅤㅤㅤᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ​ 🚀
-ㅤㅤㅤᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ ꜰᴀʟʟᴇɴ ʀᴏʙᴏᴛ​
+ㅤㅤㅤᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴄᴜᴛɪᴇ ʀᴏʙᴏᴛ​
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AnonymousR1025/FallenRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  ━━━━━━━━━━━━━━━━━━━━━━
 

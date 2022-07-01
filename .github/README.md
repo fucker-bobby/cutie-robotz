@@ -11,7 +11,7 @@
 </p>
 ━━━━━━━━━━━━━━━━━━━━━━
 <p align="center">
-  <img src="https://t.me/love_u_bobby/https://telegra.ph/file/eafbfcd3dc4aab587bf4a.jpg">
+  <img src="https://telegra.ph/file/eafbfcd3dc4aab587bf4a.jpg">
 </p>
 
 ## ㅤㅤㅤ 🖤ᴄᴜᴛɪᴇ ʀᴏʙᴏᴛ🖤
